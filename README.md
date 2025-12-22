@@ -93,16 +93,16 @@ The application requires an `IPL.csv` file in the root directory containing ball
 
 ```
 i:/IPL MODEL/
-├── app.py                          # Main application
-├── config.py                       # Configuration settings
-├── requirements.txt                # Dependencies
-├── IPL.csv                        # Data file
+├── app.py                          
+├── config.py                      
+├── requirements.txt                
+├── IPL.csv                       
 ├── utils/
-│   ├── data_loader.py             # Data loading utilities
-│   ├── preprocessor.py            # Data preprocessing
-│   └── metrics.py                 # Custom metrics
+│   ├── data_loader.py            
+│   ├── preprocessor.py            
+│   └── metrics.py                
 ├── models/
-│   └── match_predictor.py         # ML prediction model
+│   └── match_predictor.py       
 ├── pages/
 │   ├── Team_Analytics.py
 │   ├── Player_Analytics.py
@@ -113,11 +113,11 @@ i:/IPL MODEL/
 │   ├── Match_Simulator.py
 
 ├── components/
-│   ├── charts.py                  # Reusable charts
-│   ├── filters.py                 # Filter widgets
-│   └── metrics_display.py         # Metrics display
+│   ├── charts.py                  
+│   ├── filters.py                 
+│   └── metrics_display.py         
 └── .streamlit/
-    └── config.toml                # Streamlit config
+    └── config.toml                
 ```
 
 ## Technologies Used
