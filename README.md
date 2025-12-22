@@ -92,7 +92,7 @@ The application requires an `IPL.csv` file in the root directory containing ball
 ## Project Structure
 
 ```
-i:/IPL MODEL/
+i:/IPL_Analysis/
 ├── app.py                          
 ├── config.py                      
 ├── requirements.txt                
