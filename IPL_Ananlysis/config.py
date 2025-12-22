@@ -6,15 +6,15 @@ Configuration settings for IPL Analytics Application
 TEAM_COLORS = {
     'Chennai Super Kings': '#FFFF00',
     'Mumbai Indians': '#004BA0',
-    'Royal Challengers Bengaluru': '#EC1C24',  # Standardized name
+    'Royal Challengers Bengaluru': '#EC1C24', 
     'Kolkata Knight Riders': '#3A225D',
-    'Delhi Capitals': '#004C93',  # Standardized name (was Delhi Daredevils)
+    'Delhi Capitals': '#004C93',  
     'Sunrisers Hyderabad': '#FF822A',
     'Deccan Chargers': '#6C88C4',
     'Rajasthan Royals': '#254AA5',
-    'Punjab Kings': '#ED1B24',  # Standardized name (was Kings XI Punjab)
+    'Punjab Kings': '#ED1B24',  
     'Gujarat Lions': '#E04F16',
-    'Rising Pune Supergiant': '#D11D9B',  # Standardized name (singular)
+    'Rising Pune Supergiant': '#D11D9B',  
     'Pune Warriors': '#2F9BE3',
     'Kochi Tuskers Kerala': '#8B6914',
     'Lucknow Super Giants': '#3CBBDA',
@@ -41,3 +41,4 @@ N_ESTIMATORS = 100
 # Display settings
 MAX_PLAYERS_DISPLAY = 20
 RECENT_MATCHES = 10
+
