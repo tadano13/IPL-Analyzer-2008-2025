@@ -10,11 +10,14 @@ import config
 
 # page settings
 st.set_page_config(
-    page_title=config.APP_TITLE,
+    page_title="Home - " + config.APP_TITLE,
     page_icon=config.APP_ICON,
     layout=config.PAGE_LAYOUT,
     initial_sidebar_state="expanded"
 )
+
+# Set sidebar title
+st.sidebar.title("🏏 IPL Analytics")
 
 # styling stuff
 st.markdown("""
