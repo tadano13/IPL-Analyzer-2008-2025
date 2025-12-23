@@ -159,6 +159,6 @@ Created by Nishant using Streamlit and Python
 
 ---
 
-**Enjoy exploring IPL cricket analytics!** 🏏📊
+
 
 
