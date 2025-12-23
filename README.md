@@ -159,6 +159,8 @@ Created by Nishant using Streamlit and Python
 
 ---
 
+app link: https://ipl-analyzer-2008-2025-nish.streamlit.app/
+
 
 
 
