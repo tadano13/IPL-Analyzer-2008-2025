@@ -61,7 +61,7 @@ Tech stack: Python, Streamlit, Pandas, and Scikit-learn.
 
 1. Clone the repository or navigate to the project directory:
 ```bash
-cd "i:\IPL MODEL"
+cd "i:\IPL_Analysis"
 ```
 
 2. Install the required dependencies:
